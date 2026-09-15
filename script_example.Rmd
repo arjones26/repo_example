@@ -1,0 +1,13 @@
+---
+title: "example_2"
+output: html_document
+date: "2026-09-15"
+---
+
+```{r}
+
+# example chunk and script to see if push and pull works
+
+
+
+```
